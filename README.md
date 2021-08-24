@@ -24,7 +24,6 @@
     <a href="https://twitter.com/marlonendjr" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/marlonmelchiades" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/EQNjQxgs" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-   <a href="https://api.whatsapp.com/send?phone=+55(11)953459207&text=sua%20mensagem" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/MarlonMelchiades/MarlonMelchiades/blob/main/.github/workflows/blank.yml)
  
