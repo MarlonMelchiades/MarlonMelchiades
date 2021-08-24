@@ -1,4 +1,4 @@
-### Eai! Eu sou o Marlon Melchiades! ⚡ Bem-vindo ao meu perfil! 😄
+### Eai! Eu sou o Marlon Melchiades! ⚡
 
  <div>
   <a href="https://github.com/MarlonMelchiades/MarlonMelchiades">
