@@ -1,4 +1,4 @@
-### Eai! Eu sou o Marlon Melchiades! ⚡
+### Eai! Eu sou o Marlon Melchiades! ⚡ Bem-vindo ao meu perfil! 😄
 
  <div>
   <a href="https://github.com/MarlonMelchiades/MarlonMelchiades">
@@ -12,7 +12,6 @@
   <img align="center" alt="Marlon-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Marlon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Marlon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Marlon-yoda" height="150" width="150" src="https://i.pinimg.com/originals/c3/cd/1d/c3cd1d546ee4c70c6481366aa097878d.gif">
 </div>
   
   ##
