@@ -1,4 +1,4 @@
-## Eai! Eu sou o Marlon Melchiades! ⚡ Bem-vindo ao meu perfil! 😄
+## Hi there! I'm Marlon Melchiades! ⚡ Welcome to my profile! 😄
  <div>
   <a href="https://github.com/MarlonMelchiades">
    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MarlonMelchiades&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
