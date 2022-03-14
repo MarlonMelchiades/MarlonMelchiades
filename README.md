@@ -11,7 +11,7 @@
   <img align="center" alt="React-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Python-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Py-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Viking-Gif" height="150" width="150" src="https://i.pinimg.com/originals/c3/cd/1d/c3cd1d546ee4c70c6481366aa097878d.gif">
 </div>
   
