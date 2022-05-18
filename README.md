@@ -9,8 +9,8 @@
 - 🎵 | Sou músico e sei tocar 9 instrumentos musicais! 
 - 🎸 | Instrumentos que sei tocar: **bateria**, **baixo**, **guitarra**, **violão**, **teclado**, **ukulele**, **cavaquinho**, **cajon** e **gaita**.
 - 🏀 | Sou fã de basquete e da *NBA*, e torço para a franquia **Philadelphia 76ers**!
-- 📺 | Minhas séries favoritas são: **Vikings**, **The OA** e **The chosen**.
-- 🎮 | Meus jogos favoritos são **The last of us**, **Uncharted**, **God od War**, **A Plague Tale: Innocence**, **Inside** e também **Tomb Raider**. Ah! E não posso esquecer **Resident Evil** também. Além de outros jogos!
+- 📺 | Minhas séries favoritas são **Vikings**, **The OA** e **The chosen**.
+- 🎮 | Meus jogos favoritos são **The last of us**, **Uncharted**, **A Plague Tale: Innocence**, **Inside** e **Tomb Raider**. Além de outros jogos!
 
 ***
 
