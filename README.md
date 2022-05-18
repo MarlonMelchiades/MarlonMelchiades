@@ -37,9 +37,15 @@
   <img align="center" alt="Figma-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Canva-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
   <img align="center" alt="CodePen-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg">
+  <img align="center" alt="jsfiddle-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jsfiddle_logo_icon_167783.png">
+  
   <img align="center" alt="Eslint-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
   <img align="center" alt="Sketch-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg">
   <img align="center" alt="VsCode-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Sublime-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/sublime_text_alt_macos_bigsur_icon_189684.png">
+  
+  <img align="center" alt="Sass-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  
 </div>
   
 ### Bibliotecas e frameworks
@@ -56,27 +62,38 @@
   
 ### Sistemas Operacionais
  
-  <div style="display: inline_block">
+<div style="display: inline_block">
   <img align="center" alt="Android-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   <img align="center" alt="Apple-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
   <img align="center" alt="Linux-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-   <img align="Android" alt="Windows-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
+   <img align="center" alt="Windows-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 </div>
  
- ***
+### Navegadores
+
+<div style="display: inline_block">
+  <img align="center" alt="Chrome-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
+  <img align="center" alt="Firefox-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg">
+  <img align="center" alt="Opera-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opera/opera-original.svg">
+   <img align="center" alt="Safari-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/safari/safari-original.svg">
+   <img align="center" alt="Edge-Image" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/edge_browser_logo_icon_152998.png">
+</div>
+  
+### Outros softwares
+
+<div style="display: inline_block">
+  <img align="center" alt="Drive-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1011/PNG/512/Google_Drive_icon-icons.com_75713.png">
+  <img align="center" alt="Icloud-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202118icloudlogosocialsocialmedia-115699_115602.png">
+  <img align="center" alt="Audacity-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/112/PNG/512/audacity_18937.png">
+   <img align="center" alt="Excel-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
+   <img align="center" alt="Word-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_word_logo_icon_145724.png">
+   <img align="center" alt="PowerPoint-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_power_point_office_logo_icon_145723.png">
+ <img align="center" alt="Trello-Image" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
+ <img align="center" alt="scratch-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mit_scratch_logo_icon_169957.png">
+</div>
  
-<img alt="Windows" src="https://img.shields.io/badge/Windows-%23121011?style=for-the-badge&logo=windows&logoColor=white"/>
-<img alt="Linux" src="https://img.shields.io/badge/Linux-%23121011?style=for-the-badge&logo=linux&logoColor=white"/>
-<img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-%23121011?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img alt="Android" src="https://img.shields.io/badge/Android-%23121011?style=for-the-badge&logo=android&logoColor=white"/>
-  
-### Frameworks, Bibliotecas e APIs
-<img alt="Spigot" src="https://img.shields.io/badge/Spigot-000000.svg?style=for-the-badge&logo=java&logoColor=white">
-<img alt="Forge" src="https://img.shields.io/badge/forge-000000.svg?style=for-the-badge&logo=minecraft&logoColor=white">
-<img alt="Bukkit" src="https://img.shields.io/badge/Bukkit-000000.svg?style=for-the-badge&logo=minecraft&logoColor=white">
-<img alt="JavaFX" src="https://img.shields.io/badge/JavaFX-000000.svg?style=for-the-badge&logo=java&logoColor=white">
-  
-### Idiomas
+
+<!--### Idiomas
 <img alt="Portuguese" src="https://img.shields.io/badge/Português-%23121011.svg?style=for-the-badge&Color=white">
 <img alt="English" src="https://img.shields.io/badge/Inglês-%23121011.svg?style=for-the-badge&logoColor=white">
 
@@ -87,7 +104,7 @@
 <details>
   <summary> ℹ Contato </summary>
  
-### Quer falar comigo?
+!### Quer falar comigo?
  
  <img align="right" alt="Viking-Gif" height="150" width="150" src="https://i.pinimg.com/originals/c3/cd/1d/c3cd1d546ee4c70c6481366aa097878d.gif">
 <div>
@@ -101,5 +118,4 @@
 </details>
 
 *** 
-
-
+-->
