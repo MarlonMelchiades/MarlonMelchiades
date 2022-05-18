@@ -5,7 +5,7 @@
 - 🎂 | Tenho 23 anos.
 - 🏡 | Nasci e moro em São Paulo.
 - 💻 | Estudo **Ciência da Computação** na *Universidade Anhembi Morumbi*
-- 📚 | Além de **desenvolvedor**, também sou: **produtor audiovisual**, **produtor musical**, **social media**, **geoprocessador** e **professor de música**.
+- 📚 | Além de **desenvolvedor**, também sou: **produtor musical**, **social media**, **geoprocessador** e **professor de música**.
 - 🎵 | Sou músico e sei tocar 9 instrumentos musicais! 
 - 🎸 | Instrumentos que sei tocar: **bateria**, **baixo**, **guitarra**, **violão**, **teclado**, **ukulele**, **cavaquinho**, **cajon** e **gaita**.
 - 🏀 | Sou fã de basquete e da *NBA*, e torço para a franquia **Philadelphia 76ers**!
