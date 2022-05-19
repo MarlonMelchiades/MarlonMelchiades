@@ -105,23 +105,19 @@
 </details>
 
 ***
- 
-### Quer falar comigo?
- 
-<div>
- <a href = "mailto:marlonendrigosilva@gmail.com"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889681-email_82528.png" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/marlon-melchiades/" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" target="_blank"></a>
+
+  ### Quer falar comigo?
+   <a href = "mailto:marlonendrigosilva@gmail.com"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889681-email_82528.png" target="_blank"></a> 
+   <a href="https://www.linkedin.com/in/marlon-melchiades/" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" target="_blank"></a>
    <a href="https://twitter.com/marlonendjr" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png" target="_blank"></a>
- <a href="https://api.whatsapp.com/send?phone=5511953459207&text=Ol%C3%A1%2C%20Marlon!%20Tudo%20bem%3F" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-whatsapp-4661617_122497.png" target="_blank"></a>
+   <a href="https://api.whatsapp.com/send?phone=5511953459207&text=Ol%C3%A1%2C%20Marlon!%20Tudo%20bem%3F" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-whatsapp-4661617_122497.png" target="_blank"></a>
  
- </div>
- 
- ### Quer me acompanhar?
- 
- <a href="https://youtube.com/playlist?list=PLmY2V8OazEyAqt9BdB4_DpFpqmD90igC2" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580651-yumminkysocialmedia28_83061.png" target="_blank"></a>
+  ### Quer me acompanhar?
+   <a href="https://youtube.com/playlist?list=PLmY2V8OazEyAqt9BdB4_DpFpqmD90igC2" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491580651-yumminkysocialmedia28_83061.png" target="_blank"></a>
    <a href="https://www.twitch.tv/marlonmelchiades" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/twitch_icon_146123.png"></a>
-  <a href="https://discord.gg/EQNjQxgs" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-discord-4661587_122459.png" target="_blank"></a>
-  <a href="https://drive.google.com/file/d/19uOkJ8Wrg5IbmZurHKt8oeclvYziP07r/view?usp=sharing" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1880/PNG/512/iconfinder-share-4341323_120546.png" target="_blank"></a>
+   <a href="https://discord.gg/EQNjQxgs" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-discord-4661587_122459.png" target="_blank"></a>
+   <a href="https://drive.google.com/file/d/19uOkJ8Wrg5IbmZurHKt8oeclvYziP07r/view?usp=sharing" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1880/PNG/512/iconfinder-share-4341323_120546.png" target="_blank"></a>
+
 
 
 
