@@ -105,11 +105,8 @@
 </details>
 
 ***
-
-<!--<details>
-  <summary> ℹ Contato </summary>
  
-!### Quer falar comigo?
+### Quer falar comigo?
  
  <img align="right" alt="Viking-Gif" height="150" width="150" src="https://i.pinimg.com/originals/c3/cd/1d/c3cd1d546ee4c70c6481366aa097878d.gif">
 <div>
@@ -123,4 +120,4 @@
 </details>
 
 *** 
--->
+
