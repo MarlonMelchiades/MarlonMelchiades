@@ -79,6 +79,7 @@
 
 <div style="display: inline_block">
  <img align="center" alt="Drive-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1011/PNG/512/Google_Drive_icon-icons.com_75713.png">
+ <img align="center" alt="AutoCad-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Autocad_23637.png">
  <img align="center" alt="Icloud-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202118icloudlogosocialsocialmedia-115699_115602.png">
  <img align="center" alt="Audacity-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/112/PNG/512/audacity_18937.png">
  <img align="center" alt="Excel-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2397/PNG/512/microsoft_office_excel_logo_icon_145720.png">
@@ -87,6 +88,7 @@
  <img align="center" alt="Trello-Image" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg">
  <img align="center" alt="scratch-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/mit_scratch_logo_icon_169957.png">
 </div>
+ 
 
 ### Idiomas
   <div>
