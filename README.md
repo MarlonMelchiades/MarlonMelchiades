@@ -1,7 +1,7 @@
 ## Eai! Eu sou Marlon Melchiades! ⚡ Bem vindo ao meu perfil! 😄
 
  ### Algumas coisas sobre mim...
-- 🧔🏻 | Me chamo Marlon Endrigo Melchiades da Silva Junior;
+- 🧔🏻 | Me chamo Marlon Melchiades;
 - 🎂 | Tenho 23 anos;
 - 🏡 | Nasci e moro em São Paulo;
 - 💻 | Estudo **Ciência da Computação** na *Universidade Anhembi Morumbi*;
