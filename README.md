@@ -2,8 +2,8 @@
 
  ### Algumas coisas sobre mim...
 - 🧔🏻 | Me chamo Marlon Melchiades;
-- 🎂 | Tenho 23 anos;
-- 🏡 | Nasci e moro em São Paulo;
+- 🎂 | Tenho 24 anos;
+- 🏡 | Nasci e moro em Santo André - SP;
 - 💻 | Estudo **Ciência da Computação** na *Universidade Anhembi Morumbi*;
 - 📚 | Além de **desenvolvedor**, também sou: **produtor musical**, **social media**, **geoprocessador** e **professor de música**;
 - 🎵 | Sou músico e sei tocar 9 instrumentos musicais! 
