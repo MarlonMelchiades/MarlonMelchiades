@@ -6,7 +6,7 @@
 - 🏡 | Nasci e moro em Santo André - SP;
 - 💻 | Estudo **Ciência da Computação** na *Universidade Anhembi Morumbi*;
 - 📚 | Além de **desenvolvedor**, também sou: **produtor musical**, **social media**, **geoprocessador** e **professor de música**;
-- 🎵 | Sou músico e sei tocar 9 instrumentos musicais! 
+- 🎵 | Sou músico e sei tocar nove instrumentos musicais! 
 - 🎸 | Instrumentos que sei tocar: **bateria**, **baixo**, **guitarra**, **violão**, **teclado**, **ukulele**, **cavaquinho**, **cajon** e **gaita**;
 - 🏀 | Sou fã de basquete e da *NBA*, e torço para a franquia **Philadelphia 76ers**!
 - 📺 | Minhas séries favoritas são **Vikings**, **The OA** e **The chosen**;
