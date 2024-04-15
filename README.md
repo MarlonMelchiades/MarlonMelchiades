@@ -1,16 +1,10 @@
-## Eai! Eu sou Marlon Melchiades! ⚡ Bem vindo ao meu perfil! 😄
+## Bem vindo ao meu perfil! 😄
 
- ### Algumas coisas sobre mim...
 - 🧔🏻 | Me chamo Marlon Melchiades;
 - 🎂 | Tenho 24 anos;
-- 🏡 | Nasci e moro em Santo André - SP;
-- 💻 | Estudo **Ciência da Computação** na *Universidade Anhembi Morumbi*;
-- 📚 | Além de **desenvolvedor**, também sou: **produtor musical**, **social media**, **geoprocessador** e **professor de música**;
-- 🎵 | Sou músico e sei tocar nove instrumentos musicais! 
-- 🎸 | Instrumentos que sei tocar: **bateria**, **baixo**, **guitarra**, **violão**, **teclado**, **ukulele**, **cavaquinho**, **cajon** e **gaita**;
-- 🏀 | Sou fã de basquete e da *NBA*, e torço para a franquia **Philadelphia 76ers**!
-- 📺 | Minhas séries favoritas são **Vikings**, **The OA** e **The chosen**;
-- 🎮 | Meus jogos favoritos são **The last of us**, **Uncharted**, **A Plague Tale: Innocence**, **Inside** e **Tomb Raider**. Além de outros jogos!
+- 📚 | Estudo **Ciência da Computação** na *Universidade Anhembi Morumbi*;
+- 💻 | Pretendo seguir carreira na área de dados;
+- 🎵 | Também sou: **músico**, **geoprocessador** e **professor de música** 
 
 ***
 
