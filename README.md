@@ -1,17 +1,17 @@
-## Bem vindo ao meu perfil! 😄
+## Welcome to my profile! 😄
 
-- 🧔🏻 | Me chamo Marlon Melchiades;
-- 🎂 | Tenho 24 anos;
-- 📚 | Estudo **Ciência da Computação** na *Universidade Anhembi Morumbi*;
-- 💻 | Pretendo seguir carreira na área de dados;
-- 🎵 | Também sou: **músico**, **geoprocessador** e **professor de música**!
+- 🧔🏻 | My name is Marlon Melchiades;
+- 🎂 | I'am 24 years old;
+- 📚 | I study **Computer Science** at *Anhembi Morumbi University*;
+- 💻 | My focus is to construct a career in the data realm;
+- 🎵 | Also I'm: **musician**, **geoprocessor** and **music teacher**!
 
 ***
 
 <details>
   <summary> 💡 Skills 💡</summary>
   
-### Linguagens
+### Programming Languages
  
 <div style="display: inline_block">
  <img align="center" alt="Js-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,9 +19,11 @@
  <img align="center" alt="Py-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="HTML-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="CSS-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="VisualBasic-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualbasic/visualbasic-original.svg">
+ <img align="center" alt="SQL-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqldeveloper/sqldeveloper-original.svg">
 </div>
 
-### Ferramentas
+### Tools
 
 <div style="display: inline_block">
  <img align="center" alt="Npm-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
@@ -29,7 +31,6 @@
  <img align="center" alt="GitHub-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  <img align="center" alt="Figma-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
  <img align="center" alt="Canva-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
- <img align="center" alt="CodePen-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codepen/codepen-plain.svg">
  <img align="center" alt="jsfiddle-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jsfiddle_logo_icon_167783.png">
  <img align="center" alt="Eslint-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
  <img align="center" alt="Sketch-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg">
@@ -38,7 +39,7 @@
  <img align="center" alt="Sass-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div>
   
-### Bibliotecas e frameworks
+### Libraries and Frameworks
  
 <div style="display: inline_block">
  <img align="center" alt="React-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -50,7 +51,7 @@
  <img align="center" alt="Nodejs-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
 
-### Sistemas Operacionais
+### Operations systems
 
 <div style="display: inline_block">
  <img align="center" alt="Android-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
@@ -59,7 +60,7 @@
  <img align="center" alt="Windows-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
 </div>
  
-### Navegadores
+### Browser
 
 <div style="display: inline_block">
  <img align="center" alt="Chrome-Image" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
@@ -69,7 +70,7 @@
  <img align="center" alt="Edge-Image" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/edge_browser_logo_icon_152998.png">
 </div>
 
-### Outros softwares
+### Others Softwares
 
 <div style="display: inline_block">
  <img align="center" alt="Drive-Image" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1011/PNG/512/Google_Drive_icon-icons.com_75713.png">
@@ -84,25 +85,28 @@
 </div>
  
 
-### Idiomas
+### Languages
   <div>
-    Fluente
+    Native
     <img align="top" alt="Portuguese" height="25" width="25" src="https://cdn.icon-icons.com/icons2/107/PNG/512/brazil_18295.png">
   </div>
   <div>
-    Intermediário 
+    Professional working proficiency 
     <img align="top" alt="English" height="25" width="25" src="https://cdn.icon-icons.com/icons2/107/PNG/512/usa_18285.png">
+  </div>
+    <div>
+    Limited working proficiency 
     <img align="top" alt="Espanish" height="25" width="25" src="https://cdn.icon-icons.com/icons2/83/PNG/512/spain_15806.png">
   </div>
   <div>
-    Iniciante
+    Begginer
     <img align="top" alt="Germany" height="25" width="25" src="https://cdn.icon-icons.com/icons2/107/PNG/512/germany_18269.png">
   </div>
 </details>
 
 ***
 
-  ### Quer falar comigo? Quer me acompanhar?
+  ### Would you want to talk to me? Would you want to follow me?
    <a href = "mailto:marlonendrigosilva@gmail.com"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889681-email_82528.png" target="_blank"></a> 
    <a href="https://www.linkedin.com/in/marlon-melchiades/" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" target="_blank"></a>
    <a href="https://twitter.com/marlonendjr" target="_blank"><img align="center" height="40" width="40" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579542-yumminkysocialmedia22_83078.png" target="_blank"></a>
