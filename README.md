@@ -1,13 +1,3 @@
-## Welcome to my profile! 😄
-
-- 🧔🏻 | My name is Marlon Melchiades;
-- 🎂 | I'am 25 years old;
-- 📚 | I study **Computer Science** at *Anhembi Morumbi University*;
-- 💻 | My focus is to construct a career in the data realm;
-- 🎵 | Also I'm: **musician**, **geoprocessor** and **music teacher**!
-
-***
-
 <details>
   <summary> 💡 Skills 💡</summary>
   
