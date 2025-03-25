@@ -29,12 +29,12 @@ Feel free to reach out if you're interested in collaborating on projects, learni
 
 ## 🔖 Fun Facts:
 - I’m a big fan of **music** and **sports** 🏀🎶
-- Fluent in **Portuguese** and **English**, currently learning **Spanish** and **German** 🇧🇷 🇬🇧 🇪🇸 🇩🇪
+- Fluent in **Portuguese** and with **English** advanced, currently learning **Spanish** and **German** 🇧🇷 🇬🇧 🇪🇸 🇩🇪
 
 ---
 
 ## 🎯 My Goals:
-- **In the next 5 years**: I want to become a top Data Scientist at Chevron, with a strong focus on digital innovation and AI, while making a global impact.
+- **In the next 5 years**: I want to become a top Data Scientist, with a strong focus on digital innovation and AI, while making a global impact.
 - **Languages**: I aim to speak four languages and embrace opportunities in both Brazil and Germany. 🇧🇷 🇩🇪
 
 ---
